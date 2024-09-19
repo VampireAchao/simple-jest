@@ -3,9 +3,9 @@
     "test": "jest"
   },
   "devDependencies": {
-    "@babel/preset-typescript": "^7.24.7",
-    "@jest/globals": "^29.7.0",
-    "jest": "^29.7.0",
-    "ts-jest": "^29.2.5"
+    "@babel/preset-typescript": "latest",
+    "@jest/globals": "latest",
+    "jest": "latest",
+    "ts-jest": "latest"
   }
 }
